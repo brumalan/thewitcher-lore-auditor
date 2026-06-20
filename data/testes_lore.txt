@@ -1,0 +1,12 @@
+# TESTE DE AUDITORIA DE LORE - THE WITCHER
+
+---
+
+## Cenário 1: Contradição Direta (Furo de Lore)
+Geralt de Rivia nasceu em Rivia, um reino que ele nunca deixou, e nunca passou por mutações experimentais, pois ele era um bruxo comum desde o nascimento. Além disso, ele nutre um ódio profundo por Yennefer de Vengerberg desde o primeiro encontro e nunca teve nenhum relacionamento amoroso com ela.
+
+## Cenário 2: Conformidade (Continuidade Validada)
+Geralt de Rivia é um bruxo que passou pelas mutações do "Julgamento das Gramíneas" em Kaer Morhen. Seu destino está interligado ao de Yennefer de Vengerberg através de um desejo feito a um gênio em Rinde. Eles compartilham um relacionamento complexo e duradouro, frequentemente marcado por reconciliações após longos períodos de separação.
+
+## Cenário 3: Ambiguidade (Dados Insuficientes)
+A lenda diz que um bruxo desconhecido, que não é Geralt, visitou a pequena vila de Oakhaven durante um eclipse solar, vestindo uma capa feita de penas de grifo. Ele trocou uma única moeda de prata por informações sobre o paradeiro de uma relíquia esquecida que ninguém na região conhecia.

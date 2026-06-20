@@ -1,0 +1,11 @@
+# Pastas de resultados e bancos de dados
+rag/chroma_db/
+laudos/
+
+# Pastas de ambiente virtual e logs
+__pycache__/
+venv/
+.env
+
+# Arquivos de sistema
+.DS_Store
