@@ -160,7 +160,7 @@ Instalação:
 pip install -r requirements.txt
 ```
 
-## Instruções de Instalação e Execução
+## Instruções de Instalação e Execução no WINDOWS:
 
 ### Pré-requisitos
 
@@ -198,6 +198,51 @@ Sempre que novos documentos forem adicionados ou modificados na pasta `data/`, a
 
 ### Passo 5 - Executar o Sistema
 
+```bash
+python main.py
+```
+
+
+## Instruções de Instalação e Execução no LINUX:
+### Pré requisitos:
+
+* Python 3.10 ou superior
+* Ollama instalado (se não estiver instalado: curl -fsSL https://ollama.com/install.sh | sh )
+
+### 1. Crie o ambiente virtual (chamado 'venv')
+```bash
+python3 -m venv venv
+```
+
+### 2. Ative o ambiente virtual
+```bash
+source venv/bin/activate
+```
+
+### 3. Instalar dependências
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Instalar o ollama
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
+### 5. Baixar o modelo 
+```bash
+ollama pull llama3
+```
+
+### Passo 6 - Construir a Base Vetorial
+```bash
+python rag/build_db.py
+```
+Observação:
+
+Sempre que novos documentos forem adicionados ou modificados na pasta `data/`, a base vetorial deverá ser reconstruída.
+
+### Executar:
 ```bash
 python main.py
 ```
